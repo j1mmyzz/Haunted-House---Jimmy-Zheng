@@ -1,0 +1,13 @@
+body{
+    background-image: url(/images/bg.jpg);
+    display: flex;
+    justify-content: center;
+    padding: 10vw;
+}
+
+#container{
+    background: white;
+    width: 80%;
+    height: 80%;
+    border-radius: 50px;
+}
