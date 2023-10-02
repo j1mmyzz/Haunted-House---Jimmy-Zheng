@@ -16,7 +16,6 @@ body{
     grid-template-columns: repeat(4, 240px);
     gap: 20px;
     justify-content: space-between;
-    
 }
 
 .card{
