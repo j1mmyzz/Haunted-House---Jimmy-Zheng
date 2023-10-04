@@ -8,11 +8,14 @@ body{
 #container{
     background: white;
     border-radius: 50px;
+    padding: 50px;
 }
 
+#scoreboard{
+    font-size: 50px;
+}
 #cards{
     display: grid;
-    padding:  50px;
     grid-template-columns: repeat(4, 240px);
     gap: 20px;
     justify-content: space-between;
@@ -25,4 +28,15 @@ body{
     justify-content: center;
     align-items: center;
     background-color: lightgray;
+}
+
+#bottom{
+    display: flex;
+    margin-top: 40px;
+    justify-content: space-between;
+}
+
+#reset-button{
+    width: 100px;
+    font-size: 30px;
 }
