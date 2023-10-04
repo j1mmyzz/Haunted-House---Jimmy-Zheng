@@ -1,8 +1,11 @@
 body{
-    background-image: url(/images/bg.jpg);
+    background-color: lightyellow;
     display: flex;
     justify-content: center;
-    padding: 5vw;
+    margin: 0px;
+    align-items: center;
+
+    /*ceter vertically and horizontally next time*/
 }
 
 #container{
@@ -23,7 +26,7 @@ body{
 
 .card{
     padding: 20px;
-    height: 60px;
+    height: 150px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -39,4 +42,55 @@ body{
 #reset-button{
     width: 100px;
     font-size: 30px;
+}
+
+/*All the card images and stuff*/
+#c1{
+    background-image: url("/images/bg.jpg");
+
+}
+#c2{
+
+}
+#c3{
+
+}
+#c4{
+
+}
+#c5{
+
+}
+#c6{
+
+}
+#c7{
+
+}
+#c8{
+
+}
+#c9{
+
+}
+#c10{
+
+}
+#c11{
+
+}
+#c12{
+
+}
+#c13{
+
+}
+#c14{
+
+}
+#c15{
+
+}
+#c16{
+
 }
