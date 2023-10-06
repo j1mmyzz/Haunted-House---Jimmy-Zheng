@@ -4,7 +4,7 @@ body{
     justify-content: center;
     margin: 0px;
     align-items: center;
-
+    margin-top: 50px;
     /*ceter vertically and horizontally next time*/
 }
 
@@ -52,58 +52,59 @@ body{
     background-image: url("/images/sand.jpg");
 }
 #c3{
-    background-image: url("/images/sand.jpg");
+    background-image: url("/images/water.jpg");
 
 }
 #c4{
-    background-image: url("/images/sand.jpg");
+    background-image: url("/images/water.jpg");
 
 }
 #c5{
-    background-image: url("/images/sand.jpg");
+    background-image: url("/images/grass.jpg");
 
 }
 #c6{
-    background-image: url("/images/sand.jpg");
+    background-image: url("/images/grass.jpg");
 
 }
 #c7{
-    background-image: url("/images/sand.jpg");
+    background-image: url("/images/fire.jpg");
 
 }
 #c8{
-    background-image: url("/images/sand.jpg");
+    background-image: url("/images/fire.jpg");
 
 }
 #c9{
-    background-image: url("/images/sand.jpg");
+    background-image: url("/images/rocks.jpg");
 
 }
 #c10{
-    background-image: url("/images/sand.jpg");
+    background-image: url("/images/rocks.jpg");
 
 }
 #c11{
-    background-image: url("/images/sand.jpg");
+    background-image: url("/images/lightning.jpg");
 
 }
 #c12{
-    background-image: url("/images/sand.jpg");
+    background-image: url("/images/lightning.jpg");
 
 }
 #c13{
-    background-image: url("/images/sand.jpg");
+    background-image: url("/images/walnut.png");
+    background-color: black;
 
 }
 #c14{
-    background-image: url("/images/sand.jpg");
-
+    background-image: url("/images/walnut.png");
+background-color: black;
 }
 #c15{
-    background-image: url("/images/sand.jpg");
+    background-image: url("/images/cloud.jpg");
 
 }
 #c16{
-    background-image: url("/images/sand.jpg");
+    background-image: url("/images/cloud.jpg");
 
 }

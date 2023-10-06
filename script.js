@@ -16,9 +16,3 @@ function shuffle(array) {
   console.log(cards);
 //make array then randomize then use .map to mao it to html
 
-allCards = document.getElementsByClassName("card");
-console.log(allCards);
-
-for(let i = 0; i < 16; i++){
-  console.log(allCards[i].getElementsByClassName)
-}
