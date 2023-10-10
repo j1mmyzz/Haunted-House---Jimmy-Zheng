@@ -51,7 +51,8 @@ function createCard(image) {
           }
           clickedCards = []; //resets clicked cards so you can click another 2
         } else {
-          setTimeout(() => {
+          //gives you a second before it flips back
+          setTimeout(() => { 
             card1.classList.remove("flipped");
             card2.classList.remove("flipped");
             card1.style.backgroundImage = `url(/images/gray.jpg)`;
