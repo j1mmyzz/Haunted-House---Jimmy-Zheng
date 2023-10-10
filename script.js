@@ -99,6 +99,6 @@ function checkWin() {
   }
 }
 
-resetButton.addEventListener("click", createGrid);
+resetButton.addEventListener("click", createGrid); //same thing as adding an onclick for the button
 
 createGrid();
