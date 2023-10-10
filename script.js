@@ -47,7 +47,9 @@ function createCard(image) {
         ) {
           remainingPairs--;
           if (remainingPairs === 0) {
-            checkWin();
+            setTimeout(() => { 
+              checkWin();
+            }, 500);
           }
           clickedCards = []; //resets clicked cards so you can click another 2
         } else {
