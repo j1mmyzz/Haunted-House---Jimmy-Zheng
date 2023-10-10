@@ -2,7 +2,7 @@
 const grid = document.getElementById("grid");
 const scoreValue = document.getElementById("score-value");
 const resetButton = document.getElementById("reset-button");
-
+let score = 0;
 // The cards
 const images = [
   "sand",
