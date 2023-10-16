@@ -58,8 +58,8 @@ function createCard(image) {
           setTimeout(() => { 
             card1.classList.remove("flipped");
             card2.classList.remove("flipped");
-            card1.style.backgroundImage = `url(/images/gray.jpg)`;
-            card2.style.backgroundImage = `url(/images/gray.jpg)`;
+            card1.style.backgroundImage = "none";
+            card2.style.backgroundImage = "none";
             clickedCards = [];
           }, 1000);
         }
